@@ -1,6 +1,6 @@
 # 🧠 Raspberry Pi Workshop: From Basics to Smart Projects
 
-![Raspberry Pi]([https://www.raspberrypi.com/app/uploads/2021/07/hero-2.jpg](https://www.pngegg.com/en/search?q=raspberry+Pi+Logo))
+![Raspberry Pi](https://en.m.wikipedia.org/wiki/File:Raspberry_Pi_OS_Logo.png)
 
 > A complete hands-on guide to learning Raspberry Pi, Linux, sensor interfacing, and smart AI-IoT projects using Local LLMs.
 
